@@ -12,6 +12,6 @@ No assumptions
 
 ## HOW TO RUN
 - Import the sprint project and start the BankingTransactionApplication class
-- After running from postman or browser hit the following url : 
+- After running, from postman or browser hit the following url : 
     http://localhost:8888/api/suspiciousTransactions
 - Port utilized is 8888 
