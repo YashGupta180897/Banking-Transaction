@@ -11,7 +11,8 @@ This application gives the transactions and accounts which have suspicious and f
 No assumptions
 
 ## HOW TO RUN
+- import the SQL database first
 - Import the sprint project and start the BankingTransactionApplication class
 - After running, from postman or browser hit the following url : 
-    http://localhost:8888/api/suspiciousTransactions
-- Port utilized is 8888 
+    http://localhost:8890/api/suspiciousTransactions
+- Port utilized is 8890
